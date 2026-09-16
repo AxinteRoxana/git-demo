@@ -8,5 +8,10 @@ linia 6 linia 6
 linia 7 linia 7
 linia 8 linia 8
 
+linia 9 linia 9
+linia 10 linia 10
+linia 11 linia 11
+linia 12 linia 12
+
 
 
